@@ -24,15 +24,15 @@ I'm a full-stack web developer with experience in both front-end and back-end te
 <h2> ##  🙋‍♀️  About Me  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px height = 25px> </h2>    
 
 
-- <img  width = 30px height = 30px src="https://em-content.zobj.net/source/skype/289/seedling_1f331.png"> I’m currently working as a **frontend developer at QuickTouch PRT Ltd.**
+- <img  width = 30px height = 30px src="https://em-content.zobj.net/source/skype/289/seedling_1f331.png"> I’m currently working as a **Software Engineer at QuickTouch PRT Ltd.**
 
 - <img  width = 30px height = 30px src="https://em-content.zobj.net/source/microsoft-teams/363/woman-dancing_1f483.png"> I’m looking to collaborate on **OpenSource Projects**
 
 - <img  width = 30px height = 30px src="https://em-content.zobj.net/source/skype/289/film-projector_1f4fd-fe0f.png"> All of my projects are available at **(https://abhi21121211.github.io)**
 
-- <img  width = 30px height = 30px src="https://em-content.zobj.net/source/microsoft-teams/363/see-no-evil-monkey_1f648.png">How to reach me **abhishekdukare689@gmail.com**
+- <img  width = 30px height = 30px src="https://em-content.zobj.net/source/microsoft-teams/363/see-no-evil-monkey_1f648.png">How to reach me **adityapratap1490@gmail.com**
 
-- <img width=30px height=30px src="https://em-content.zobj.net/source/microsoft-teams/363/ghost_1f47b.png"> Fun fact - **I love to do swimming and have a keen interest in Travelling**
+- <img width=30px height=30px src="https://em-content.zobj.net/source/microsoft-teams/363/ghost_1f47b.png"> Fun fact - **I love martial arts and have a keen interest in Travelling**
 <p style="margin-top:80px">
     
 <h2>Portfolio</h2>
@@ -41,9 +41,9 @@ I'm a full-stack web developer with experience in both front-end and back-end te
  ## Connect me on:    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="120px" height="50px" >
 
 <div style="display:flex;gap:20px">
-<a href = "https://www.linkedin.com/in/abhishek-dukare/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="mailto:abhishekdukare689@gmail.com"><img width=43px height=45px src="https://camo.githubusercontent.com/70917cb7756d2e3f19d86872d89102269d6aed7115a7be64f29bbf1aed12baf9/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3838382f3838383835332e706e67"></a>
-<a href="https://api.whatsapp.com/send?phone=7020162627"><img width=40px height=43px src="https://camo.githubusercontent.com/6590702cef8b9697656ce084d83381fa8a9de03b317fbef452288f00d1085b9a/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3733332f3733333538352e706e67"></a>
+<a href = "https://www.linkedin.com/in/aditya-pratap-singh-5a2a19220/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="mailto:adityapratap1490@gmail.com"><img width=43px height=45px src="https://camo.githubusercontent.com/70917cb7756d2e3f19d86872d89102269d6aed7115a7be64f29bbf1aed12baf9/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3838382f3838383835332e706e67"></a>
+<a href="https://api.whatsapp.com/send?phone=9119786188"><img width=40px height=43px src="https://camo.githubusercontent.com/6590702cef8b9697656ce084d83381fa8a9de03b317fbef452288f00d1085b9a/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3733332f3733333538352e706e67"></a>
 
 </div>
 
